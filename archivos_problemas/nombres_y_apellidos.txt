@@ -1,0 +1,16 @@
+los datos son:
+Nombre: Jose
+Apellido:Castro
+---------
+Nombre: Josefina
+Apellido:Dalto
+---------
+Nombre: Andrea
+Apellido:De Luca
+---------
+Nombre: Isabella
+Apellido:Gray
+---------
+Nombre: Mateo
+Apellido:Soto
+---------
